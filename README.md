@@ -1,4 +1,4 @@
-# Express, MySQL, Vue Kickstart Project
+# A Vue, Express and MySQL Kickstart Project
 
 ## Installation
 - Git clone this repo: `git@github.com:rakibtg/Vue-Express-MySQL-Kickstart.git`
